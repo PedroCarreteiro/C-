@@ -1,0 +1,10 @@
+C:\Users\pcarr\source\repos\AV2\bin\Debug\AV2.exe.config
+C:\Users\pcarr\source\repos\AV2\bin\Debug\AV2.exe
+C:\Users\pcarr\source\repos\AV2\bin\Debug\AV2.pdb
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.csproj.AssemblyReference.cache
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.Form1.resources
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.Properties.Resources.resources
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.csproj.GenerateResource.cache
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.csproj.CoreCompileInputs.cache
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.exe
+C:\Users\pcarr\source\repos\AV2\obj\Debug\AV2.pdb
