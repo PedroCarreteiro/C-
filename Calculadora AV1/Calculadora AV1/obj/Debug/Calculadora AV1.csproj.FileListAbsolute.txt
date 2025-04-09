@@ -1,0 +1,10 @@
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\bin\Debug\Calculadora AV1.exe.config
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\bin\Debug\Calculadora AV1.exe
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\bin\Debug\Calculadora AV1.pdb
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora AV1.csproj.AssemblyReference.cache
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora_AV1.Form1.resources
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora_AV1.Properties.Resources.resources
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora AV1.csproj.GenerateResource.cache
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora AV1.csproj.CoreCompileInputs.cache
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora AV1.exe
+C:\Users\pcarr\source\repos\Calculadora AV1\Calculadora AV1\obj\Debug\Calculadora AV1.pdb
